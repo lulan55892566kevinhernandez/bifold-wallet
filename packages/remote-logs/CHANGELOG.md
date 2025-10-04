@@ -1,5 +1,17 @@
 # Change Log
 
+## 2.7.5
+
+### Patch Changes
+
+- Updated dependencies [915a87f]
+- Updated dependencies [d626cc7]
+- Updated dependencies [e95ab80]
+- Updated dependencies [4a491d4]
+- Updated dependencies [73a8419]
+- Updated dependencies [600c696]
+  - @bifold/core@2.7.5
+
 ## 2.7.4
 
 ### Patch Changes
