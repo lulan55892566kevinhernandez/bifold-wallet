@@ -103,3 +103,5 @@ newAgent.mediationRecipient.initiateMessagePickup()
 ### Summary
 
 By following these steps, you ensure that your agent properly accepts mediation using an Out-of-Band invitation, bypassing the legacy mediator URL configuration. Let us know if you run into any issues! 😊
+
+<!-- Auto-update: 2025-10-11T08:38:39.185105 -->
